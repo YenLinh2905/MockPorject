@@ -1,0 +1,9 @@
+# Backend related
+node_modules/
+dist/
+.vercel/
+logs/
+uploads/
+.env
+.env.local
+.env.*.local
