@@ -36,3 +36,5 @@ docker-compose.yml
 
 # Backend-related ignores
 uploads/
+
+backend/src/connection/firebase/jiraclone-a750e-firebase-adminsdk-lghhc-03012998cc.json
